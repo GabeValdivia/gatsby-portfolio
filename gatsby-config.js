@@ -5,10 +5,10 @@ module.exports = {
     author: `@tcollins`,
 
     githubUser: 'GabeValdivia',
-    backgroundImage: `${__dirname}/src/images/unsplash-man-coding.jpg`,
+    backgroundImage: '/src/images/unsplash-man-coding.jpg',
     theme: 'dark',
   },
-  pathPrefix: 'gatsby-portolio',
+  pathPrefix: 'gatsby-portfolio',
   plugins: [
     `gatsby-plugin-react-helmet`,
     {
