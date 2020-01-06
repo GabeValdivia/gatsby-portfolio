@@ -8,7 +8,7 @@ const Card = ({
   stargazers_count,
   forks_count,
 }) => {
-  return (<a key={name} href={html_url} target="_blank">
+  return (<a key={name} href={html_url} target="_blank" rel="noopener noreferrer">
     <section>
       <div className="section_title">{name}</div>
       <div className="about_section">

@@ -5,7 +5,7 @@ module.exports = {
     author: `@tcollins`,
 
     githubUser: 'GabeValdivia',
-    backgroundImage: 'https://images.unsplash.com/photo-1553748024-d1b27fb3f960?w=1450',
+    backgroundImage: `${__dirname}/src/images/unsplash-man-coding.jpg`,
     theme: 'dark',
   },
   pathPrefix: 'gatsby-portolio',
