@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gitfolio for gatsby`,
-    description: `Showcase your git repos.`,
+    title: `Gabe Valdivia - Portfolio`,
+    description: `Git repos.`,
     author: `@tcollins`,
 
-    githubUser: 'facebook',
+    githubUser: 'GabeValdivia',
     backgroundImage: 'https://images.unsplash.com/photo-1553748024-d1b27fb3f960?w=1450',
     theme: 'dark',
   },
-  pathPrefix: 'gitfolio-gatsby',
+  pathPrefix: 'gatsby-portolio',
   plugins: [
     `gatsby-plugin-react-helmet`,
     {
